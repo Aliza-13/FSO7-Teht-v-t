@@ -13,3 +13,5 @@ coverage/
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
+
+.github/workflows/routed-anecdotes.yml
